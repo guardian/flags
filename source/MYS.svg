@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="500" viewBox="0 0 28 14">
+<title>Flag of Malaysia</title>
+<rect fill="#fff" width="28" height="14"/>
+<g id="v" fill="#dc241f">
+<rect id="t" width="28" height="1"/>
+<use y="2" xlink:href="#t"/>
+<use y="4" xlink:href="#t"/>
+<use y="6" xlink:href="#t"/>
+</g>
+<use y="6" xlink:href="#v"/>
+<rect fill="#0035ad" width="14" height="8"/>
+<circle fill="#ffd100" cx="5.75" cy="4" r="3"/>
+<circle fill="#0035ad" cx="6.4166" cy="4" r="2.6666"/>
+<g transform="translate(8.75,4)" fill="#ffd100">
+<g id="s">
+<path id="h" d="M 1,0 L 2.437320,0.556302 0.900969,0.433884 1.954579,1.558725 0.623490,0.781831 1.084709,2.252422 0.222521,0.974928 0,2.5 -.3,-.3 z"/>
+<use transform="scale(1,-1)" xlink:href="#h"/>
+</g>
+<use transform="scale(-1,1)" xlink:href="#s"/>
+</g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600">
+<rect width="900" height="600" fill="#000"/>
+<rect width="900" height="400" fill="#fff"/>
+<rect width="900" height="200" fill="#ce1126"/>
+<path d="M270,235 308.206041,352.586105 208.181326,279.913895H331.818674L231.793959,352.586105z" fill="#007a3d" id="a"/>
+<use xlink:href="#a" x="360"/>
+</svg>

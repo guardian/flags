@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="1000"
+   height="500"
+   id="svg2">
+  <metadata
+     id="metadata48">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs46" />
+  <rect
+     width="1000"
+     height="500"
+     x="0"
+     y="0"
+     id="rect4"
+     style="fill:#5b97b1" />
+  <svg
+     version="1.1"
+     width="500"
+     height="250"
+     viewBox="0 0 600 300"
+     id="svg6">
+    <rect
+       width="600"
+       height="300"
+       x="0"
+       y="0"
+       id="rect8"
+       style="fill:#00247d" />
+    <path
+       d="M 0,0 600,300 M 600,0 0,300"
+       id="path10"
+       style="stroke:#ffffff;stroke-width:60" />
+    <clipPath
+       id="p">
+      <path
+         d="M 300,150 H 600 V 300 z M 300,150 V 300 H 0 z M 300,150 H 0 V 0 z M 300,150 V 0 H 600 z"
+         id="path13" />
+    </clipPath>
+    <path
+       d="M 0,0 600,300 M 600,0 0,300"
+       clip-path="url(#p)"
+       id="path15"
+       style="stroke:#cf142b;stroke-width:40" />
+    <path
+       d="M 300,0 V 300 M 0,150 H 600"
+       id="path17"
+       style="stroke:#ffffff;stroke-width:100" />
+    <path
+       d="M 300,0 V 300 M 0,150 H 600"
+       id="path19"
+       style="stroke:#cf142b;stroke-width:60" />
+  </svg>
+  <symbol
+     transform="scale(1.0079285,1.0079285)"
+     id="s">
+    <polygon
+       points="511.946,324.278 533.785,256.897 555.613,324.281 626.445,324.23 569.104,365.812 591.041,433.161 533.774,391.476 476.501,433.151 498.449,365.806 441.115,324.214 "
+       transform="matrix(0.42409132,0,0,0.42496543,32.937915,19.240824)"
+       id="polygon24"
+       style="fill:#ffce00" />
+  </symbol>
+  <use
+     id="use26"
+     x="657.66272"
+     y="-98.259903"
+     width="1000"
+     height="500"
+     xlink:href="#s" />
+  <use
+     id="use28"
+     x="569.00061"
+     y="153.87309"
+     width="1000"
+     height="500"
+     xlink:href="#s" />
+  <use
+     id="use30"
+     x="657.66278"
+     y="96.796822"
+     width="1000"
+     height="500"
+     xlink:href="#s" />
+  <use
+     id="use32"
+     x="276.41541"
+     y="279.6626"
+     width="1000"
+     height="500"
+     xlink:href="#s" />
+  <use
+     transform="matrix(-1,0,0,-1,918.05558,489.94217)"
+     id="use34"
+     x="0"
+     y="0"
+     width="1000"
+     height="500"
+     xlink:href="#s" />
+  <use
+     transform="matrix(-1,0,0,-1,1023.0596,344.72386)"
+     id="use36"
+     x="0"
+     y="0"
+     width="1000"
+     height="500"
+     xlink:href="#s" />
+  <use
+     transform="matrix(-1,0,0,-1,1111.3077,314.56311)"
+     id="use38"
+     x="0"
+     y="0"
+     width="1000"
+     height="500"
+     xlink:href="#s" />
+  <use
+     transform="matrix(-1,0,0,-1,1023.0596,565.90248)"
+     id="use40"
+     x="0"
+     y="0"
+     width="1000"
+     height="500"
+     xlink:href="#s" />
+  <use
+     transform="matrix(-1,0,0,-1,918.05558,591.59488)"
+     id="use42"
+     x="0"
+     y="0"
+     width="1000"
+     height="500"
+     xlink:href="#s" />
+</svg>

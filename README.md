@@ -1,4 +1,4 @@
-flags
-=====
+You will need Node, PhantomJS, GraphicsMagick and the gm npm module installed to generate flags from the SVG originals.
 
-Collection of SVG flags indexed by world bank code (e.g. GBR.svg = Union Jack), plus scripts to get bitmap thumbnails
+`node rasterise` - create hi-res PNGs from the source folder
+`node thumb` - crop the hi-res PNGs to a square, and resize
